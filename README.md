@@ -7,6 +7,9 @@
 <h3> 💫 About Me:</h3>
 <br>👯 I’m looking to collaborate on Good Tech Skills<br>🌱 I’m currently learning Full Stack Web Development<br>💬 Ask me about Coding...<br>📫 How to reach me: nikhil.kharat8@gmail.com<br>👯 Interested in backend technologies....<br>👯 Self Motivated, Experienced in CRM<br>⚡ Quick learner<br>💬 Ask me about Javascript, Java, HTML, CSS, DSA
 
+⚡ My Resume :- [Resume](https://drive.google.com/file/d/17Vx_Z7RdFFYcl35DKSVB17MxavhY4rbp/view?usp=sharing)<br>
+🌱 My Portfolio :- [Portfolio](https://nikhilkharat.github.io/)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/niikhil.kharat17@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikkuu_17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-kharat-872608109) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@nikhilkharat8) 
 
